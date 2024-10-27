@@ -1,5 +1,4 @@
-![logo](https://github.com/EVIL-EY3/EVIL-EY3/blob/main/hacked-hack.gif)
-<h1 align="center">Hi 👋, I'm EVIL-EY3</h1>
+<h1 align="center">Hi 👋, I'm AROSHIL</h1>
 <h3 align="center">After suffering comes success Is there any trouble in life?</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evil-ey3&label=Profile%20views&color=0e75b6&style=flat" alt="evil-ey3" /> </p>
